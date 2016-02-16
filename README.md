@@ -6,7 +6,7 @@ This example repo provides some Java9 (Jigsaw) samples
 - on UNIX systems you can configure your different Java versions like this:
 
 Edit .bash_profile
-
+```bash
 export GRADLE_HOME=/usr/local/Cellar/gradle/2.0/libexec
 export M2_HOME=/usr/local/Cellar/maven/3.3.3/libexec
 export JAVA_8_HOME=$(/usr/libexec/java_home -v1.8) # on linux try to add the path
@@ -20,3 +20,4 @@ export PATH=$PATH:$GRADLE_HOME/bin:$VERTX_HOME/bin:$JAVA9_BIN/bin
 alias java9='export JAVA_HOME=$JAVA9_BIN'
 alias java7='export JAVA_HOME=$JAVA_7_HOME'
 alias java8='export JAVA_HOME=$JAVA_8_HOME'
+```
