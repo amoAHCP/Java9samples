@@ -1,0 +1,8 @@
+#Thu Feb 25 15:22:30 CET 2016
+JAVA_FULL_VERSION="9-ea+103-jigsaw-nightly-h4361-20160131"
+OS_VERSION="11.2"
+JAVA_VERSION="9"
+OS_NAME="Darwin"
+SOURCE=".\:3f783722a064 bdb\:8ff6e91a0455 closed\:71debe389948 corba\:03a6a5123b72 deploy\:1c998eae320f hotspot\:13a50046aec1 hotspot/make/closed\:47ac9d0a6740 hotspot/src/closed\:a627b169fe71 hotspot/test/closed\:489ab47af540 install\:89d275c3f234 jaxp\:37efbbb12861 jaxws\:c237ba8edd84 jdk\:02980d5a8039 jdk/make/closed\:2d1ad205f9f1 jdk/src/closed\:9426881b6f25 jdk/test/closed\:05dd295a7432 langtools\:eee0cb0a7a75 nashorn\:6348f68ffe01 pubs\:0434035cfb13 sponsors\:be45cb3afc27"
+OS_ARCH="x86_64"
+MODULES=ch.trivadis.contactvalidator,ch.trivadis.phoneValidator,java.base
